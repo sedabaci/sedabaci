@@ -1,3 +1,5 @@
+### Herkese Merhaba
+
 Ben Seda,
 
 Axa Sigorta A.Ş.'de Full Stack Developer olarak çalışmaktayım.<br>
